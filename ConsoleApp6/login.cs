@@ -7,6 +7,7 @@ namespace ConsoleApp6
  public   class login
     {
         public string NameMina { get; set; }
+        public int IdAli { get; set; }
         public string FamilyMina { get; set; }
     }
 }
