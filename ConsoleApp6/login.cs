@@ -4,8 +4,9 @@ using System.Text;
 
 namespace ConsoleApp6
 {
-    class login
+ public   class login
     {
+        public string NameMina { get; set; }
         public int IdAli { get; set; }
     }
 }
