@@ -6,5 +6,6 @@ namespace ConsoleApp6
 {
     class login
     {
+        public int IdAli { get; set; }
     }
 }
