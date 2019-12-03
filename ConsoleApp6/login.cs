@@ -9,5 +9,6 @@ namespace ConsoleApp6
         public string NameMina { get; set; }
         public int IdAli { get; set; }
         public string FamilyMina { get; set; }
+        public string AgeAli { get; set; }
     }
 }
